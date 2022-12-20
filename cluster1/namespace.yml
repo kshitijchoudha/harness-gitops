@@ -3,4 +3,4 @@ kind: Namespace
 metadata:
   name: harness-gitops-test
   labels:
-    name: harness-gitops
+    name: harness-gitops-1
